@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.afc1fae5.css",
+    "main.js": "/portfolio/static/js/main.2f50a031.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/elmenudealicia.jpg": "/portfolio/static/media/elmenudealicia.631f556c52872e5686bc.jpg",
+    "static/media/celiamartinperez.jpg": "/portfolio/static/media/celiamartinperez.3419bfcc391baa23651b.jpg",
+    "static/media/fotoPerfil.png": "/portfolio/static/media/fotoPerfil.0f6b0220c64c9acd81f8.png",
+    "static/media/yogaypilatesoviedo.jpg": "/portfolio/static/media/yogaypilatesoviedo.66262eb440ccf0c59cb0.jpg",
+    "static/media/leandropereyra.jpg": "/portfolio/static/media/leandropereyra.975c8110f0c79bb55704.jpg",
+    "static/media/Quicksand-VariableFont_wght.ttf": "/portfolio/static/media/Quicksand-VariableFont_wght.92e1d0f3321b53e20d2b.ttf",
+    "static/media/bgcolors.jpg": "/portfolio/static/media/bgcolors.e9beffbc0c1a2d937a2e.jpg",
+    "static/media/skills.png": "/portfolio/static/media/skills.9c236aa99f98de31acb1.png",
+    "static/media/logo.png": "/portfolio/static/media/logo.aa6bba73ce0462a91952.png",
+    "index.html": "/portfolio/index.html",
+    "main.afc1fae5.css.map": "/portfolio/static/css/main.afc1fae5.css.map",
+    "main.2f50a031.js.map": "/portfolio/static/js/main.2f50a031.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afc1fae5.css",
+    "static/js/main.2f50a031.js"
+  ]
+}
