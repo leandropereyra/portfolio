@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "QUICKSAND";
+    src: url("./fonts/Quicksand-VariableFont_wght.ttf");
+  }
+
+@layer components{
+  .skillBox{
+    @apply flex flex-col items-center justify-end gap-4 mx-6 xl:mx-12
+  }
+  .skillTitle{
+    @apply font-extrabold text-2xl
+  }
+  .title{
+    @apply font-semibold text-center text-5xl mb-20 underline underline-offset-8 decoration-pink-500
+  }
+  .section{
+    @apply flex flex-col items-center px-8 mt-20
+  }
+  .iconContact{
+    @apply cursor-pointer text-4xl md:text-7xl text-pink-500 hover:scale-125 transition
+  }
+  .linkes{
+    @apply cursor-pointer hover:text-pink-500 hover:scale-150 transition text-2xl
+  }
+  .active{
+    @apply text-pink-500 scale-150
+  }
+  .header{
+    @apply fixed text-white w-80 md:w-96 bottom-5 left-1/2 -translate-x-1/2 -translate-y-1/2 right-0 pb-4 pt-1 px-5 bg-slate-900/90 rounded-full shadow-md shadow-pink-500/50
+  }
+  .imgLogo{
+    @apply max-w-xs -mt-36 md:max-w-md
+  }
+  .boxLogo{
+    @apply bg-fondo bg-fixed h-screen bg-cover bg-center flex flex-col items-center justify-center
+  }
+}
