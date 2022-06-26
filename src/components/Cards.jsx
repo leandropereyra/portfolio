@@ -25,6 +25,8 @@ const Cards = () => {
               {url ? (
                 <a
                   href={url}
+                  target="_blank"
+                  rel="noreferrer"
                   className="py-2 px-3 text-sm font-medium text-center text-slate-50 bg-pink-500 rounded-lg hover:scale-125 transition"
                 >
                   Ver Web

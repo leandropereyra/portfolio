@@ -50,6 +50,7 @@ export const ArrayCards = [
     title: "Lista de Tareas CRUD",
     image: todo,
     skill: [react, tailwind, github, javascript],
-    github: "https://github.com/leandropereyra/portfolio",
+    github: "https://github.com/leandropereyra/todolist",
+    url: "https://leandropereyra.github.io/todolist/"
   },
 ];
